@@ -1,2 +1,1 @@
-# synchronousBallMovement
-Ball moving synchronously
+# It's a SURVEY ya'll !!
